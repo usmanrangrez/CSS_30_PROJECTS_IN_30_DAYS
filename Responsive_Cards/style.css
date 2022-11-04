@@ -47,6 +47,11 @@ body{
     max-width: 40%;
 }
 
+.card .umer {
+    margin-top: 20px;
+    border-radius: 500px;
+}
+
 .card figcaption {
     padding: 5% 10% 15%;
 }
@@ -68,17 +73,17 @@ body{
     letter-spacing: 1px;
 }
 
-.card .icons .icon-logo {
+.card .icons i {
     color: #999;
     display: inline-block;
     margin-right: 5px;
     font-size: 1.5em;
-}
-
-.card .icons .icon-logo:hover {
+  }
+  
+  .card .icons i:hover {
     color: #555;
-}
-
-.card .icons .icon-logo a{
+  }
+  
+  .card .icons i a {
     text-decoration: none;
-}
+  }
